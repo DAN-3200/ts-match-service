@@ -1,0 +1,31 @@
+{
+	"name": "ts-match-service",
+	"module": "src/main.ts",
+	"scripts": {
+		"dev": "bun --watch src/main.ts"
+	},
+	"devDependencies": {
+		"@types/bcryptjs": "^3.0.0",
+		"@types/bun": "latest",
+		"@types/cors": "^2.8.19",
+		"@types/express": "^5.0.5",
+		"@types/express-session": "^1.18.2",
+		"@types/morgan": "^1.9.10"
+	},
+	"peerDependencies": {
+		"typescript": "^5"
+	},
+	"private": true,
+	"type": "module",
+	"dependencies": {
+		"@lucia-auth/adapter-mongodb": "^1.0.3",
+		"bcrypt": "^6.0.0",
+		"bcryptjs": "^3.0.3",
+		"cors": "^2.8.5",
+		"express": "^5.1.0",
+		"express-session": "^1.18.2",
+		"lucia": "^3.2.2",
+		"mongodb": "^7.0.0",
+		"morgan": "^1.10.1"
+	}
+}
