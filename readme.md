@@ -7,8 +7,9 @@
 
 
 ## Descrição 
-Aplicação de match de ação comunitária entre voluntários e ONGs, desenvolvida utilizando TypeScript, Bun.js, Express.js e MongoDB (rodando em Docker).
-O projeto foi desenvolvido como parte do processo avaliativo da disciplina de Programação Web Back-End do Professor Maurício Barreto Marçal de Carvalho, na UNIFAN, com o objetivo de consolidar conhecimentos e práticas adquiridas.
+Aplicação de match de ação comunitária entre voluntários e ONGs, desenvolvida com TypeScript, Bun.js, Express.js e MongoDB (em Docker). O sistema permite registrar e autenticar usuários, cadastrar e atualizar perfis de ONGs e realizar o match entre voluntários e oportunidades, facilitando o engajamento em causas locais.
+
+O projeto foi desenvolvido como parte do processo avaliativo da disciplina de Programação Web Back-End, ministrada pelo Professor Maurício Barreto Marçal de Carvalho, na UNIFAN, com o objetivo de consolidar conhecimentos teóricos e práticos adquiridos durante o curso.
 
 ## Tecnologias
 
