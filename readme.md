@@ -4,7 +4,7 @@
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Descrição 
 Aplicação de match de ação comunitária entre voluntários e ONGs, desenvolvida com TypeScript, Bun.js, Express.js e MongoDB (em Docker). O sistema permite registrar e autenticar usuários, cadastrar e atualizar perfis de ONGs e realizar o match entre voluntários e oportunidades, facilitando o engajamento em causas locais.
